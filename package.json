@@ -1,0 +1,28 @@
+{
+    "name": "hello-koa",
+    "version": "1.0.0",
+    "description": "Hello Koa 2 example with async",
+    "main": "app.js",
+    "dependencies": {
+        "koa": "^2.3.0"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node app.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/dolphintwo/hello-koa.git"
+    },
+    "keywords": [
+        "koa",
+        "async"
+    ],
+    "author": "dolphintwo",
+    "license": "Apache-2.0",
+    "bugs": {
+        "url": "https://github.com/dolphintwo/hello-koa/issues"
+    },
+    "homepage": "https://github.com/dolphintwo/hello-koa#readme"
+}
